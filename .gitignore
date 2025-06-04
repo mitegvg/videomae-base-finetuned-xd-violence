@@ -19,3 +19,5 @@ build
 finetuned_model
 videomae-base-finetuned-xd-violence
 .ipynb_checkpoints
+videomae-base-finetuned-sports-videos-in-the-wild/*
+videomae-base-finetuned-sports-videos-in-the-wild/
