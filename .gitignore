@@ -21,3 +21,6 @@ videomae-base-finetuned-xd-violence
 .ipynb_checkpoints
 videomae-base-finetuned-sports-videos-in-the-wild/*
 videomae-base-finetuned-sports-videos-in-the-wild/
+*.mp4
+*checkpoint*
+events.out.tfevents.*
