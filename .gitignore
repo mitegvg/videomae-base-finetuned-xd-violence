@@ -17,6 +17,7 @@ build
 .DS_store
 *.egg-info
 finetuned_model
+videomae-tiny-binary-finetuned-xd-violence
 videomae-base-finetuned-xd-violence
 .ipynb_checkpoints
 videomae-base-finetuned-sports-videos-in-the-wild/*
@@ -24,3 +25,6 @@ videomae-base-finetuned-sports-videos-in-the-wild/
 *.mp4
 *checkpoint*
 events.out.tfevents.*
+wandb
+tri_model_distillation_*
+*.pdf
